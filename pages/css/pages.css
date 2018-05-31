@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
@@ -15,4 +17,182 @@ img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+
+/* INTRO */
+.intro {
+    background-color: lightcyan;
+}
+
+.nmd {
+    text-align: center;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+.centreren {
+    text-align: center;
+    font-weight: bold;
+    color: darkslategray;
+}
+
+h4 {
+    color: darkslategray;
+
+}
+
+/* SCENARIO */
+.scenario { 
+    background-color: lightcyan;
+}
+
+/* CONCURRENTIE */
+
+.concurrentie {
+    float: left;
+    background-color: lightcyan;
+}
+
+.titelsconcurrentie {
+    text-align: center;
+    color: darkslategray;
+}
+
+.fotocenter {
+    margin-left: 400px;
+}
+
+/* DIGITAL STYLEGUIDE */
+
+.header {
+    text-align: center;
+    font-size: 60pt;
+    color: #fcfcfc;
+    background-color: #400600;
+    margin:0 ;
+    padding: 160px;
+}
+
+.kaderfont {
+    background-color: lightgoldenrodyellow;
+    margin:px ;
+    padding: 5px;
+}
+
+.fontsz { 
+    text-align: center;
+    margin: 90px 0 30px;
+    font-size: 45pt;
+    text-decoration: underline;
+}
+
+.fonts {
+   text-align: center; 
+}
+
+.Roboprobold {
+ font-family: 'Roboto';
+ font-weight: bold;
+ font-size: 30pt;
+}
+
+.Robopromedium {
+ font-family: 'Roboto';
+ font-weight: medium;
+ font-size: 20pt;
+}
+.Roboprolight{
+ font-family: 'Roboto';
+ font-weight: lighter;
+ font-size: 12pt;
+}
+
+.Impact {
+ font-family: 'Impact', 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+ font-size: 30pt;
+}
+
+.kleur {
+    background-color: whitesmoke;
+    margin:px ;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+.color {
+    text-align: center;
+    margin: 90px 0 30px;
+    font-size: 45pt;
+    text-decoration: underline;
+    color: black;
+    margin: 50px;
+}
+
+.bordeaux {
+background: #400600;
+padding: 30px;
+}
+
+.okergeel {
+background: #bf6f00;
+padding: 30px;
+}
+
+.lichtblauw {
+background: #6fb3d8;
+padding: 30px;
+}
+
+.zwart {
+background: #000000;
+padding: 30px;
+}
+
+.grijs {
+background: #6b6b6b;
+padding: 30px;
+}
+
+.background {
+    text-align: center;
+    margin: 90px 0 30px;
+    font-size: 45pt;
+    text-decoration: underline;
+    color: black;
+    margin: 50px;
+    
+}
+
+.merch {
+    float: left;
+    margin: 90px 0 30px;
+    font-size: 45pt;
+    text-decoration: underline;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+
+.buttons {
+    text-align: center;
+    font-size: 45pt;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin: auto;
+
+}
+
+.logo {
+    text-align: center;
+    font-size: 45pt;
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+    margin: auto;
+}
+
+
